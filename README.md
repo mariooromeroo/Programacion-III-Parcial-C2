@@ -1,6 +1,6 @@
 # Programacion-III-Parcial-C2
 
-** El repositorio de Faker para Python es una biblioteca que genera datos falsos pero realistas para propósitos de prueba y desarrollo. Su función principal es crear información ficticia como nombres, direcciones, emails, textos, números de teléfono, fechas y muchos otros tipos de datos de manera rápida y sencilla. Una de sus características más destacadas es el soporte para múltiples localizaciones e idiomas, lo que permite generar datos específicos de diferentes regiones y países. **
+El repositorio de Faker para Python es una biblioteca que genera datos falsos pero realistas para propósitos de prueba y desarrollo. Su función principal es crear información ficticia como nombres, direcciones, emails, textos, números de teléfono, fechas y muchos otros tipos de datos de manera rápida y sencilla. Una de sus características más destacadas es el soporte para múltiples localizaciones e idiomas, lo que permite generar datos específicos de diferentes regiones y países.
 
 ## Integrantes 
 
